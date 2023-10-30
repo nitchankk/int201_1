@@ -34,8 +34,3 @@ function ProductManagement() {
 module.exports = ProductManagement
 const productCatalog = ProductManagement()
 
-
-//practice bz
-class Student {
-  
-}
